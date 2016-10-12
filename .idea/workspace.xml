@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6cc1056d-bc70-45ff-a9fa-fac9124b10db" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algos/1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algos/2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algos/3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/Fx.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/algos/1.png" afterPath="$PROJECT_DIR$/algos_xgboost/1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/algos/2.png" afterPath="$PROJECT_DIR$/algos_xgboost/2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/algos/3.png" afterPath="$PROJECT_DIR$/algos_xgboost/3.png" />
     </list>
     <ignored path="GBDT.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -40,7 +37,7 @@
         </entry>
       </file>
       <file leaf-file-name="1.png" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/algos/1.png">
+        <entry file="file://$PROJECT_DIR$/algos_xgboost/1.png">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
@@ -157,7 +154,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="algos" />
+              <option name="myItemId" value="algos_xgboost" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -670,12 +667,12 @@
       <created>1476156519845</created>
       <option name="number" value="Default" />
       <updated>1476156519845</updated>
-      <workItem from="1476156522710" duration="10493000" />
+      <workItem from="1476156522710" duration="10635000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10493000" />
+    <option name="totallyTimeSpent" value="10635000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1855" height="1056" extended-state="6" />
@@ -722,12 +719,12 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/algos/3.png">
+    <entry file="file://$PROJECT_DIR$/algos_xgboost/3.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algos/2.png">
+    <entry file="file://$PROJECT_DIR$/algos_xgboost/2.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -739,7 +736,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algos/1.png">
+    <entry file="file://$PROJECT_DIR$/algos_xgboost/1.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
