@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6cc1056d-bc70-45ff-a9fa-fac9124b10db" name="Default" comment="" />
+    <list default="true" id="6cc1056d-bc70-45ff-a9fa-fac9124b10db" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GBDT.ipynb" afterPath="$PROJECT_DIR$/GBDT.ipynb" />
+    </list>
     <ignored path="GBDT.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -27,7 +29,7 @@
         <entry file="file://$PROJECT_DIR$/GBDT.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="1" />
+              <selected id="2" />
             </state>
           </provider>
         </entry>
@@ -257,12 +259,12 @@
       <created>1476156519845</created>
       <option name="number" value="Default" />
       <updated>1476156519845</updated>
-      <workItem from="1476156522710" duration="9549000" />
+      <workItem from="1476156522710" duration="9786000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9549000" />
+    <option name="totallyTimeSpent" value="9786000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1855" height="1056" extended-state="6" />
@@ -312,7 +314,7 @@
     <entry file="file://$PROJECT_DIR$/GBDT.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="5" />
+          <selected id="2" />
         </state>
       </provider>
     </entry>
